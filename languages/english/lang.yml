@@ -1,7 +1,7 @@
 # Language data, modify you can modify this file
 # Deleting this 'lang.yml' file, the plugin generates a new one
 
-LANGUAGE:
+LANGUAGE: spanish
 - QUEST_CREATE_13: Enter quest description
   QUEST_CREATE_14: 'Description: _a'
   Storm: Storm
